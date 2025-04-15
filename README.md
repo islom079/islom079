@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Frontend developer bo‘lish yo‘lida o‘qiyapman<br/>
-  💻 HTML | CSS | JavaScript | Bootstrap | React
+  💻 HTML | CSS | JavaScript | Bootstrap | React | JQuery
 </p>
 
 ---
