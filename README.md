@@ -2,7 +2,6 @@
 
 <p align="center">
   🚀 Frontend developer bo‘lish yo‘lida o‘qiyapman<br/>
-  📚 Hozirda FintechHub'da tahsil olyapman<br/>
   💻 HTML | CSS | JavaScript | Bootstrap | React
 </p>
 
